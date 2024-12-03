@@ -67,7 +67,7 @@ p.parg {
    gap: 10px;
 }
 
-.text-content p.parg:nth-child(1) {
+.text-content h1.parg:nth-child(1) {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.4;
